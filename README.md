@@ -1,4 +1,4 @@
-# Workshop on Experimental and Computational Fracture Mechanics [![CircleCI](https://circleci.com/gh/diehlpk/wfm2020.svg?style=svg)](https://circleci.com/gh/diehlpk/wfm2020) [![DOI](https://zenodo.org/badge/164981386.svg)](https://zenodo.org/badge/latestdoi/164981386)
+# Workshop on Experimental and Computational Fracture Mechanics 2024 [![CircleCI](https://circleci.com/gh/diehlpk/wfm2024.svg?style=svg)](https://circleci.com/gh/diehlpk/wfm2024) 
 
 
 
