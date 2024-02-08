@@ -1,10 +1,10 @@
 Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 1,Sun,Steve,data/silling.tex,Columbia University,,4$^{th}$,9:00 AM--10:00 AM
 2,Chen,JS,data/madenci.tex,University of California (San Diego),A NEURAL NETWORK-BASED ENRICHMENT OF REPRODUCING KERNEL APPROXIMATION FOR MODELING BRITTLE FRACTURE,4$^{th}$,10:30 AM--11:00 AM
-3,Yue,Yu,data/galvanetto.tex,Lehigh University,DOMAIN AGNOSTIC NEURAL OPERATORS FOR DATA-DRIVEN FRACTURE MODELING,4$^{th}$,11:00 AM--11:30 AM
+3,Yu,Yue,data/galvanetto.tex,Lehigh University,DOMAIN AGNOSTIC NEURAL OPERATORS FOR DATA-DRIVEN FRACTURE MODELING,4$^{th}$,11:00 AM--11:30 AM
 4,Silling,Stewart,data/bobaru.tex,Sandia National Laboratories,PERIDYNAMICS AND LINEAR ELASTIC FRACTURE MECHANICS,4$^{th}$,11:30 AM--12:00 PM
 5,Lipton,Robert,data/foster.tex,Louisiana State University,DYNAMIC ENERGY BALANCE AND FRACTURE,4$^{th}$,12:00 PM--12:30 PM
-6,Lawrence,Anovitz,data/seleson.tex,Oak Ridge National Laboratory,,4$^{th}$,2:00 PM--2:30 PM
+6,Anovitz,Lawrence,data/seleson.tex,Oak Ridge National Laboratory,,4$^{th}$,2:00 PM--2:30 PM
 7,Schweitzer,Alex,data/lipton.tex,University of Bonn,,4$^{th}$,2:30 PM--3:00 PM
 8,Lew,Adrian,data/diehl.tex,Stanford University,,4$^{th}$,3:00 PM--3:30 PM
 9,Prudhomme,Serge,data/lin.tex,Polytechnique Montréal,,4$^{th}$,3:30 PM--4:00 PM
@@ -15,10 +15,10 @@ Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 14,Moutsanidis,Georgios,data/ata.tex,Stony Brook University,A PHASE FIELD METHOD FOR SIMULATING BRITTLE FRACTURE IN FUNCTIONALLY GRADED MATERIALS UNDER THERMAL SHOCK,5$^{th}$,12:00 PM--12:30 PM
 15,Hillman,Mike,data/mohr.tex, Karagozian \& Case Inc.,Shear fracture of metals during in-plane torsion experiments,5$^{th}$,2:00 PM--2:30 PM
 16,Trask,Nat,data/fineberg.tex,University of Pennsylvania,,5$^{th}$,2:30 PM--3:00 PM
-17,Taylor Zehnder,Alan,data/anand.tex,Cornell University,DELAYED FRACTURE DUE TO TIME-DEPENDENT DAMAGE IN PDMS,5$^{th}$,3:00 PM--3:30 PM
+17,Zehnder,Alan Taylor,data/anand.tex,Cornell University,DELAYED FRACTURE DUE TO TIME-DEPENDENT DAMAGE IN PDMS,5$^{th}$,3:00 PM--3:30 PM
 18,Zemlyanova,Anna,data/lopez.tex,Kansas State University,A PENNY-SHAPED FRACTURE PROBLEM IN THE PRESENCE OF THE STEIGMANN-OGDEN SURFACE ELASTICITY,5$^{th}$,3:30 PM--4:00 PM
 19,Bunger,Andrew,data/waisman.tex,University of Pittsburgh,TIME DEPENDENCE AND WIDTH CONSTRICTION IN ROCK FRACTURE - EXPERIMENTAL EVIDENCE AND MODELING RESPONSES,6$^{th}$,9:00 AM--10:00 AM
 20,Bartels,S\"oren,data/weinberg.tex,University of Freiburg,ERROR ESTIMATES FOR NONCONFORMING AND DISCONTINUOUS DISCRETIZATIONS OF NONSMOOTH PROBLEMS VIA CONVEX DUALITY,6$^{th}$,10:30 AM--11:00 AM
 21,Diehl,Patrick,data/kamensky.tex,Louisiana State University,,6$^{th}$,11:00 AM--11:30 AM
-22,Dayal,Kaushik,data/landis.tex,Carnegie Mellon University,"PHASE-FIELD MODELING OF FRACTURE: NUCLEATION, DISSIPATION, LARGE DEFORMATION, AND COMPLEX STRESS STATES",6$^{th}$,11:30 AM--12:00 AM
-23,Kumar,Aditya,data/wick.tex,Georgia Institute of Technology,NEW INSIGHTS INTO A COMPLETE THEORY OF BRITTLE FRACTURE REVEALED BY THE POKER-CHIP EXPERIMENTS,6$^{th}$,12:00 AM--12:30 PM
+22,Dayal,Kaushik,data/landis.tex,Carnegie Mellon University,"PHASE-FIELD MODELING OF FRACTURE: NUCLEATION, DISSIPATION, LARGE DEFORMATION, AND COMPLEX STRESS STATES",6$^{th}$,11:30 AM--12:00 PM
+23,Kumar,Aditya,data/wick.tex,Georgia Institute of Technology,NEW INSIGHTS INTO A COMPLETE THEORY OF BRITTLE FRACTURE REVEALED BY THE POKER-CHIP EXPERIMENTS,6$^{th}$,12:00 PM--12:30 PM
