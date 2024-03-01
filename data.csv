@@ -12,7 +12,7 @@ Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 11,Guilleminot,Johann,data/tippur.tex,Duke University,STOCHASTIC REPRESENTATIONS OF MODEL-FORM UNCERTAINTIES IN BRITTLE FRACTURE SIMULATIONS,5$^{th}$,10:30 AM--11:00 AM
 12,Shakiba,Maryam,data/hild.tex,University of Colorado Boulder,INTEGRATED CONVOLUTIONAL AND GRAPH NEURAL NETWORKS TO ADVANCE COMPOSITES ANALYSIS,5$^{th}$,11:00 AM--11:30 AM
 13,Dolbow,John,data/lambros.tex,Duke University,RECENT ADVANCES IN PHASE-FIELD MODELS OF FRACTURE INCORPORATING ARBITRARY MATERIAL STRENGTH,5$^{th}$,11:30 AM--12:00 PM
-14,Moutsanidis,Georgios,data/ata.tex,Stony Brook University,A PHASE FIELD METHOD FOR SIMULATING BRITTLE FRACTURE IN FUNCTIONALLY GRADED MATERIALS UNDER THERMAL SHOCK,5$^{th}$,12:00 PM--12:30 PM
+22,Moutsanidis,Georgios,data/ata.tex,Stony Brook University,A PHASE FIELD METHOD FOR SIMULATING BRITTLE FRACTURE IN FUNCTIONALLY GRADED MATERIALS UNDER THERMAL SHOCK,5$^{th}$,11:30 AM--12:00 PM
 15,Hillman,Mike,data/mohr.tex, Karagozian \& Case Inc.,Shear fracture of metals during in-plane torsion experiments,5$^{th}$,2:00 PM--2:30 PM
 16,Trask,Nat,data/fineberg.tex,University of Pennsylvania,,5$^{th}$,2:30 PM--3:00 PM
 17,Zehnder,Alan Taylor,data/anand.tex,Cornell University,DELAYED FRACTURE DUE TO TIME-DEPENDENT DAMAGE IN PDMS,5$^{th}$,3:00 PM--3:30 PM
@@ -20,5 +20,5 @@ Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 19,Bunger,Andrew,data/waisman.tex,University of Pittsburgh,TIME DEPENDENCE AND WIDTH CONSTRICTION IN ROCK FRACTURE - EXPERIMENTAL EVIDENCE AND MODELING RESPONSES,6$^{th}$,9:00 AM--10:00 AM
 20,Bartels,S\"oren,data/weinberg.tex,University of Freiburg,ERROR ESTIMATES FOR NONCONFORMING AND DISCONTINUOUS DISCRETIZATIONS OF NONSMOOTH PROBLEMS VIA CONVEX DUALITY,6$^{th}$,10:30 AM--11:00 AM
 21,Diehl,Patrick,data/kamensky.tex,Louisiana State University,,6$^{th}$,11:00 AM--11:30 AM
-22,Dayal,Kaushik,data/landis.tex,Carnegie Mellon University,"PHASE-FIELD MODELING OF FRACTURE: NUCLEATION, DISSIPATION, LARGE DEFORMATION, AND COMPLEX STRESS STATES",6$^{th}$,11:30 AM--12:00 PM
+14,Dayal,Kaushik,data/landis.tex,Carnegie Mellon University,"PHASE-FIELD MODELING OF FRACTURE: NUCLEATION, DISSIPATION, LARGE DEFORMATION, AND COMPLEX STRESS STATES",6$^{th}$,12:00 PM--12:30 PM
 23,Kumar,Aditya,data/wick.tex,Georgia Institute of Technology,NEW INSIGHTS INTO A COMPLETE THEORY OF BRITTLE FRACTURE REVEALED BY THE POKER-CHIP EXPERIMENTS,6$^{th}$,12:00 PM--12:30 PM
